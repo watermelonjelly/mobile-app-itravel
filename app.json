@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "COMP3130-MajorProject-updated-deli2",
+    "slug": "majorproject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "splash": {
+        "image": "./assets/splash.png"
+      }
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "description": "This a  trip guide application Designed for IOS PLatform: using iPhone 11 screen.\nPlease choose the following email and password for testing.\nmarco@gmail.com       Password:1234\ncolombo@gmail.com   Password:2345"
+  }
+}
